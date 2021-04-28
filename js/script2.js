@@ -1,3 +1,3 @@
-$("#image").dbclick(function() {
-    $(this).css({"width : 500px"});
+$("#image").click(function() {
+    $(this).width(500);
 });
